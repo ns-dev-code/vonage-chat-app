@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## `npm or yarn install`
+
+Run this command in order to install dependencies
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -19,3 +23,4 @@ You will also see any lint errors in the console.
 Add base url to REACT_APP_BASE_URL = https://backend-production-399a.up.railway.app/
 Or Run the node backend code set base url accordingly.
 Backend deployed to Railway App.
+
