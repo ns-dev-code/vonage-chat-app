@@ -19,7 +19,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `.env`
-Create .env file and add base url to "REACT_APP_BASE_URL = https://backend-production-399a.up.railway.app/"
+Create .env file and add base url to " REACT_APP_BASE_URL = https://backend-production-399a.up.railway.app/ "
 
 Or Run the node backend code set base url accordingly.
 
